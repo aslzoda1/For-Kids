@@ -98,6 +98,3 @@ For Kids — bu shunchaki o'yin emas, bu yosh tadqiqotchilar uchun mo'ljallangan
 <p align="center">
 <b>💎 EDUCATION FOR ALL — 𝑩𝒖𝒊𝒍𝒕 𝒇𝒐𝒓 𝒕𝒉𝒆 𝑭𝒖𝒕𝒖𝒓𝒆 💎</b>
 </p>
-
-
-aslzoda
