@@ -21,6 +21,7 @@
 </p>
 
 🌈 𝑶𝒗𝒆𝒓𝒗𝒊𝒆𝒘: 𝑩𝒊𝒍𝒊𝒎 𝒗𝒂 𝑶‘𝒚𝒖𝒏 𝑼𝒚𝒈‘𝒖𝒏𝒍𝒊𝒈𝒊
+<img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/5a2eda14-36d9-4f55-a864-102a4ff539db" />
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
